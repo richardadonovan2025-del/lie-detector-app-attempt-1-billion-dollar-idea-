@@ -1,0 +1,6 @@
+{
+  "name": "Veracity Assessment MVP",
+  "description": "Two-step video verification process and Gemini AI analysis",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
